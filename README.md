@@ -6,7 +6,7 @@
 
 -🤝 Open to Collaboration: Eager to team up on impactful analytical projects.
 
--📧 Reach Out: Let's connect at s5@gmail.com—I'm always up for a chat about data and analytics!
+-📧 Reach Out: Let's connect at shivam199975@gmail.com—I'm always up for a chat about data and analytics!
 
 <!---
 Berserker33/Berserker33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
